@@ -2,4 +2,5 @@ RSNET is a MATLAB program for inferring Gene Regulatory Networks (GRN) from gene
  
 Example_RSNET.m is an example for inferring GRN from gene gexpression data. 
 
-If you encounter any problem, please do not hesitate to contact us at zhangxj@wbgcas.cn
+If you encounter any problem, please do not hesitate to contact us at zhangxj@wbgcas.cn.
+ 
