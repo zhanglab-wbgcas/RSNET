@@ -1,4 +1,4 @@
-% An example for using RSNET to infer GRN: inferring GRN for apple fruit develoopment
+% An example for using RSNET to infer GRN: inferring GRN for apple fruit develoopment. 
 % from gene expression data. 
 % Version data: Feb.,2021
 clear;clc;
