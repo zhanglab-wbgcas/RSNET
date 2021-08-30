@@ -7,7 +7,7 @@
 %   deleleting the low regulatory weightness.  
  
 function [A_result]=Connect_for_cytoscape_threshold(threshold,J,name_TF,name_gene)
-% threshold is decide to retain the percentage of the edges
+% threshold is decide to retain the percentage of the edges.
 
 
 [rows1,cols1,vals1] = find(J>=threshold);
