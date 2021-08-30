@@ -1,4 +1,4 @@
-% Function SEDR.M for inferring causalities from expression data
+% Function SEDR.M for inferring causalities from expression data.
 % Input: 
 %     y: Expression of targetor;
 %     X: Expressions of regulators;
