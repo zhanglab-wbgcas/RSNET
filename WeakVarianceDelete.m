@@ -2,7 +2,7 @@
 %   expression profils with low variance.Threshold is parameter used to control the
 %   strenthness of variance;Textdata is gene list; Data is gene expression profile
 %   Parameter can be set according to the requirment and dataset,for
-%   example value between 0.05 and 0.5 
+%   example value between 0.05 and 0.5. 
 function [textdata,data]=WeakVarianceDelete(textdata,data,threshold)
 vardata=var(data,0,2); % computer the variance of row
 %[m,n1]=size(vardata);
